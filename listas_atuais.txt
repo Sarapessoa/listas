@@ -1,0 +1,2 @@
+https://raw.githubusercontent.com/Sarapessoa/listas/main/playlist_01/versoes/playlist_1.0.m3u
+https://raw.githubusercontent.com/Sarapessoa/listas/main/playlist_02/versoes/playlist_1.0.m3u
