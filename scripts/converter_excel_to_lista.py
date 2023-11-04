@@ -33,8 +33,8 @@ def create_m3u_file(excel_file_path, m3u_file_path):
 
     print(f'Arquivo M3U criado e salvo em {m3u_file_path}')
 
-num = '01'
-versao = '1.1'
+num = '03'
+versao = '1.0'
 
 excel_file_path = f"../playlist_{num}/playlist_{num}.xlsx"
 m3u_file_path = f"../playlist_{num}/versoes/playlist_{versao}.m3u"
